@@ -1,0 +1,87 @@
+[
+    {
+        "name": "pego01",
+        "teleporter": "pego01",
+        "delay": 4200
+    },
+    {
+        "name": "pego02",
+        "teleporter": "pego02",
+        "delay": 4200
+    },
+    {
+        "name": "pego04",
+        "teleporter": "pego04",
+        "delay": 4200
+    },
+    {
+        "name": "pego05",
+        "teleporter": "pego05",
+        "delay": 4200
+    },
+    {
+        "name": "pego07",
+        "teleporter": "pego07",
+        "delay": 4200
+    },
+    {
+        "name": "pego08",
+        "teleporter": "pego08",
+        "delay": 4200
+    },
+    {
+        "name": "pego09",
+        "teleporter": "pego09",
+        "delay": 4200
+    },
+    {
+        "name": "pego10",
+        "teleporter": "pego10",
+        "delay": 4200
+    },
+    {
+        "name": "pego11",
+        "teleporter": "pego11",
+        "delay": 4200
+    },
+    {
+        "name": "pego12",
+        "teleporter": "pego12",
+        "delay": 4200
+    },
+    {
+        "name": "pego13",
+        "teleporter": "pego13",
+        "delay": 4200
+    },
+    {
+        "name": "pego14",
+        "teleporter": "pego14",
+        "delay": 4200
+    },
+    {
+        "name": "pego15",
+        "teleporter": "pego15",
+        "delay": 4200
+    },
+    {
+        "name": "pego16",
+        "teleporter": "pego16",
+        "delay": 4200
+    },
+    {
+        "name": "pego17",
+        "teleporter": "pego17",
+        "delay": 4200
+    },
+    {
+        "name": "pego18",
+        "teleporter": "pego18",
+        "delay": 4200
+    },
+    {
+        "name": "pego19",
+        "teleporter": "pego19",
+        "delay": 4200
+    }
+]
