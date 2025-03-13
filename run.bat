@@ -21,10 +21,11 @@ if errorlevel 1 (
     echo Python is already installed. Please make sure its of version 3.10 or higher, using an older version will NOT work!
 )
 
-:: Pull updates from Git
 
+:: Pull updates from Git
 git pull origin main
 git pull
+
 
 
 :: Check if virtual environment exists

@@ -371,6 +371,7 @@ def console_ccc():
         if count % 10 == 0 and count != 0:
             utils.press_key("ConsoleKeys")
         count += 1
+    time.sleep(0.3)
     if template.check_template_no_bounds("console",0.55):
         pyautogui.write("ccc") # for some reason utils.write doesnt register
         time.sleep(0.3)
@@ -394,11 +395,12 @@ def console_write(info:str):
         if count % 10 == 0 and count != 0:
             utils.press_key("ConsoleKeys")
         count += 1
+    time.sleep(0.3)
     if template.check_template_no_bounds("console",0.55):
         pyautogui.write(info)
         time.sleep(0.3)
         utils.press_key("Enter")
-        time.sleep(0.2)
+        time.sleep(0.3)
     
 def bed_spawn_in(bed_name:str):
 

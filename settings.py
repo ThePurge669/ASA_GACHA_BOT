@@ -6,8 +6,8 @@ berry_station = "GACHABERRYSTATION"
 grindables = "GACHAGRINDABLES"
 berry_type = "mejoberry"
 
-station_yaw = -36.19    #FOR  gacha tower
-render_pushout = 56.31  #FOR  gacha tower
+station_yaw = -36.19    #FOR 9307 gacha tower
+render_pushout = 56.31  #FOR 9307 gacha tower
 
 # station_yaw = 171.73 #FOR purge single player test
 # render_pushout = -10.62 #FOR purge single player test
@@ -21,19 +21,19 @@ height_ele = 3
 height_grind = 3
 command_prefix = "%"
 singleplayer = False
-server_number = 0
+server_number =
 
 # you need to put in you channel IDs and you bot API
 
-log_channel_gacha = 0
-log_active_queue = 0
-log_wait_queue =  0
+log_channel_gacha =
+log_active_queue =
+log_wait_queue =
 discord_api_key = ""
-# The ones ABOVE are for 9307 gacha tower
+# The ones ABOVE are for  gacha tower
 
-# log_channel_gacha =   #FOR purge single player test
+# log_channel_gacha =    #FOR purge single player test
 # log_active_queue=      #FOR purge single player test
-# log_wait_queue =      #FOR purge single player test
+# log_wait_queue =       #FOR purge single player test
 # discord_api_key = ""    #FOR purge single player test
 
 if __name__ =="__main__":
